@@ -25,13 +25,13 @@ To get started with the API, follow these steps:
 1. Clone this repository by running the following command:
 
    ```bash
-   git clone https://github.com/samuelorobosa/hngx5-2.git
+   git clone https://github.com/olurocks/stage5.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd hngx5-2
+   cd stage 5
    ```
 
 3. Install the necessary dependencies by running:
