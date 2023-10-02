@@ -50,7 +50,7 @@ By default, the API will run on port `8000`. You can access it via `http://local
 
 ## Available Endpoints
 
-The API comes with several endpoints that allow you to interact with it. For detailed information on how to use these endpoints, refer to the API documentation available [here](https://documenter.getpostman.com/view/19182062/2s9YJaXPXr).
+The API comes with several endpoints that allow you to interact with it. For detailed information on how to use these endpoints, refer to the API documentation not yet available.
 
 ## Happy Coding!
 
